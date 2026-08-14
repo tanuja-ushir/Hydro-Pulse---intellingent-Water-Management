@@ -1,6 +1,6 @@
 # Hydro-Pulse---intellingent-Water-Management
-# HydroPulse – Intelligent Water Management
-#Sensor-based monitoring and dashboard integration are implemented. Automatic pump control using motor and relay is currently under development and will be integrated in the next version.
+
+# Sensor-based monitoring and dashboard integration are implemented. Automatic pump control using motor and relay is currently under development and will be integrated in the next version.
 ## Overview
 
 HydroPulse is an IoT-based groundwater and water-resource monitoring system designed to support efficient irrigation and sustainable water management.
