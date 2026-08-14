@@ -1,6 +1,6 @@
 # Hydro-Pulse---intellingent-Water-Management
 # HydroPulse – Intelligent Water Management
-
+#Sensor-based monitoring and dashboard integration are implemented. Automatic pump control using motor and relay is currently under development and will be integrated in the next version.
 ## Overview
 
 HydroPulse is an IoT-based groundwater and water-resource monitoring system designed to support efficient irrigation and sustainable water management.
@@ -43,16 +43,5 @@ Sensors → ESP32 → Firebase → Dashboard → Analysis & Recommendations
 - JavaScript
 - GIS
 
-## Repository Structure
 
-```text
-Hydro-Pulse---intelligent-Water-Management/
-│
-├── dashboard/
-│   └── HydroPulse-10-6.jsx
-│
-├── firmware/
-│   └── Hydro_Pulse_esp.ino
-│
-└── README.md
-Sensor-based monitoring and dashboard integration are implemented. Automatic pump control using motor and relay is currently under development and will be integrated in the next version.
+
